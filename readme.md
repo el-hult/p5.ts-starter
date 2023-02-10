@@ -1,3 +1,5 @@
+# Starter pack to get up and running with p5.js and typescript
+
 First `npm install`, then 
 
 * `npx eslint .` to lint
